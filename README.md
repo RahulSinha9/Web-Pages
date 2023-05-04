@@ -1,2 +1,2 @@
 # Web-Pages
-Using HTML5 and CSS 
+ Create web pages using HTML5 and CSS. 
